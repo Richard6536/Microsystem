@@ -19,4 +19,4 @@ Additionally, some Android functions will automatically load asset files:
 Typeface tf = Typeface.CreateFromAsset (Context.Assets, "fonts/samplefont.ttf");
 
 
-Hola richardsxfvgasdfgasdf
+Hola richardsxfvgasdfgasdfafdasdf asdfasfd
